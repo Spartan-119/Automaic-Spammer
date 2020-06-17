@@ -1,2 +1,2 @@
 # Automaic-Spammer
-I  wrote a python script to spam her with a lot of whatsapp messages.
+I  wrote a python script to spam my niece with a lot of whatsapp messages.
