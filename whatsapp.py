@@ -29,7 +29,7 @@ for i in range(count):
     button.click()
 
 '''
-name = "Stephy Shaji"
+name = "tuptup"
 msg = "ok"
 count = 10000
 
