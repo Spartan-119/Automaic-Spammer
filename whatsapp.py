@@ -29,9 +29,9 @@ for i in range(count):
     button.click()
 
 '''
-name = "tuptup"
-msg = "ok"
-count = 10000
+name = "tuptup" # enter the name of contact as saved in your device
+msg = "ok" # enter the message that you want to send
+count = 10000 # enter the count of times you want to spam with
 
 input("Enter any key after the scanning is done")
 
