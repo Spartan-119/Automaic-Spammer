@@ -28,6 +28,7 @@ for i in range(count):
     button = driver.find_element_by_class_name('_35EW6')
     button.click()
 
+# earlier iteration of my code
 '''
 name = "tuptup" # enter the name of contact as saved in your device
 msg = "ok" # enter the message that you want to send
